@@ -52,7 +52,7 @@ Some features I may add later:
 
 ## Design Changes
 
-The original bootcamp version focused mainly on the structure of the form.
+The original bootcamp project included both HTML and CSS, but I wanted to redesign the interface because I felt the original styling looked outdated. I kept the core form concept while creating my own visual direction with a more modern, playful alien-themed UI.
 
 For my version, I redesigned the UI to make it feel more modern and visually engaging. I changed the layout, added a custom illustration, used a side-by-side design, introduced a stronger color palette, and added rounded borders and a bold box-shadow effect.
 
